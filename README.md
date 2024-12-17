@@ -128,6 +128,8 @@ terraform validate
 #### **Passo 4: Criando a Infraestrutura**
 Agora que tudo está configurado, execute o comando `terraform apply` para criar a instância EC2 conforme definido no `main.tf`.
 
+![image](https://github.com/user-attachments/assets/48cbdba3-4d6c-4113-a55a-21ef630244f9)
+
 ```bash
 terraform apply
 ```
