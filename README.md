@@ -136,6 +136,11 @@ terraform apply
 
 Terraform exibirá um plano de execução com as ações que serão realizadas. Quando o plano for aprovado, digite `yes` para confirmar a criação da instância.
 
+![image](https://github.com/user-attachments/assets/7988ade6-50a8-4aa1-b969-840bfd4ae207)
+
+![image](https://github.com/user-attachments/assets/43400f18-35df-40de-92d2-212a1eda7340)
+
+
 ```bash
 Enter a value: yes
 ```
