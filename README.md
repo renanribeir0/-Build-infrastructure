@@ -61,6 +61,8 @@ cd learn-terraform-aws-instance
 
 Em seguida, crie um arquivo `main.tf` para definir a infraestrutura.
 
+![image](https://github.com/user-attachments/assets/407409e3-e622-4c07-bf5a-2e55330f2b31)
+
 ```bash
 touch main.tf
 ```
