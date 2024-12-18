@@ -26,8 +26,6 @@
 
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/271e9aa3-55a8-476b-a62f-628b43a9d57f" />
 
-Claro! Aqui está o texto adaptado para parecer que foi você quem fez:
-
 ---
 
 ### Provisionando uma Instância EC2 na AWS com Terraform
